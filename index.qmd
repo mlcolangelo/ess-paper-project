@@ -1,0 +1,16 @@
+---
+title: my paper
+authors:
+  - name: Mia Colangelo
+    affiliation: Colorado State University
+    roles: writing
+    corresponding: true
+  - name: Neva Morgan
+    affiliation: Colorado State University
+    roles: writing
+    corresponding: false
+bibliography: references.bib
+---
+
+## Section
+This is a simple placeholder for the manuscript's main document [@knuth84].
