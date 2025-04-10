@@ -30,6 +30,18 @@ The American Bittern is a solitary, cryptic species that relies on wetlands for 
 Past studies on migratory birds indicate that climate change is leading to earlier spring arrivals, delayed fall departures, and shifts in overall migration routes (La Sorte & Thompson, 2007). For wetland-dependent birds like the American Bittern, changes in water levels due to altered precipitation cycles could further complicate their ability to find suitable stopover sites and breeding grounds. Given that wetlands are already among the most threatened ecosystems in North America, with significant losses due to urbanization and agriculture, climate-induced changes pose an additional challenge (Dahl, 2011).
 Studying the migration patterns of the American Bittern under a changing climate is essential for predicting future population trends and informing conservation strategies. By understanding how climate variables influence their movements, conservationists can prioritize habitat protection, restoration, and adaptive management to mitigate potential negative impacts.
 
+**Sources:**
+American bittern overview, all about birds, Cornell Lab of Ornithology. Overview, All About Birds, Cornell Lab of Ornithology. (n.d.). https://www.allaboutbirds.org/guide/American_Bittern/overview
+
+Dahl, T. E. (2011). Status and trends of wetlands in the conterminous United States 2004 to 2009. US Department of the Interior, US Fish and Wildlife Service, Fisheries and Habitat Conservation.
+
+La Sorte, F. A., & Thompson III, F. R. (2007). Poleward shifts in winter ranges of North American birds. Ecology, 88(7), 1803-1812.
+
 
 **Motivation:**
 Bird migration range and timing is critical for ensuring species survival and ecological balance. However, climate change has altered seasonal patterns, potentially disrupting migration timing and impacting breeding success, food availability, and overall population health. Understanding these shifts can inform conservation strategies and mitigate risks to migratory bird species. Additionally, information gained from analyzing one species can be used to make inferences about the potential shifts in other similar species.
+
+
+**Data**
+American Bittern Migration:
+Steen, V., Powell, A. N. (2012). "Potential Effects of Climate Change on the Distribution of Waterbirds in the Prairie Pothole Region, U.S.A.," Waterbirds, 35(2), 217-229. https://doi.org/10.1675/063.035.0204.
