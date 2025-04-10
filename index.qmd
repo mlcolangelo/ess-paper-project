@@ -45,3 +45,17 @@ Bird migration range and timing is critical for ensuring species survival and ec
 **Data**
 American Bittern Migration:
 Steen, V., Powell, A. N. (2012). "Potential Effects of Climate Change on the Distribution of Waterbirds in the Prairie Pothole Region, U.S.A.," Waterbirds, 35(2), 217-229. https://doi.org/10.1675/063.035.0204.
+
+Climate Data:
+Currently we are still exploring how to best manage our data, based on the recent change of administration, access to NOAA data has been stipled. We have still not completely pulled data reflecting the entire scope of the western coast, however, there are weather stations we have pulled from Phoenix, Arizona to begin. 
+
+
+**Methods**
+
+1. Create time period for seasons
+2. Focus on temperature shifts
+3. Temperature data set that encompasses bird migration
+4. Focused area (region)
+5. NOAA temperature dataset
+
+
